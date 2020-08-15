@@ -1,4 +1,4 @@
-# terkey
+# 101
 Termux vip shortcut
 
 # usage
